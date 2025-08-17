@@ -23,5 +23,5 @@
 
 <p align="center">
   💼 <strong>Open To</strong><br/>
-  Internships` • Junior Developer Roles • Collaborations & Open-Source
+  Internships • Junior Developer Roles • Collaborations & Open-Source
 </p>
