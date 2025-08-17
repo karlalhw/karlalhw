@@ -1,6 +1,6 @@
 <h1 align="center">⊹ ݁ ₊ 🌸 <strong>Hi, I'm Karla</strong> 🌸 ₊ ݁ ⊹</h1>
 
-<p align="center">I am a `student/self-taught developer` with a passion for creating solutions!</p>
+<p align="center">I am a student/self-taught developer with a passion for creating solutions!</p>
 
 <br/>
 
@@ -16,12 +16,12 @@
 
 <p align="center">
   <strong>🌱Current Goals</strong><br/>
-  `Building real-world projects` • `Practising clean architecture` • `Expanding to Web 3.0 and FinTech`
+  Building real-world projects • Practising clean architecture • Expanding to Web 3.0 and FinTech
 </p>
 
 <br/>
 
 <p align="center">
   💼 <strong>Open To</strong><br/>
-  `Internships` • `Junior Developer Roles` • `Collaborations & Open-Source`
+  Internships` • Junior Developer Roles • Collaborations & Open-Source
 </p>
