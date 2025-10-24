@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>🌱Current Goals</strong><br/>
-  Building real-world projects • Practising clean architecture • Expanding to Web 3.0 and FinTech
+  Building real-world projects • Learning Solidity & Smart Contracts • Expanding to Web 3.0 and FinTech
 </p>
 
 <br/>
