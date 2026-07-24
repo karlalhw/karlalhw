@@ -44,7 +44,7 @@
 | Project | Stack | Description |
 |---|---|---|
 | [Portfolio Website](https://karlalhw.com) | React · Next.js · Tailwind | Live personal portfolio at karlalhw.com |
-| [E-Commerce Platform](https://github.com/karlalhw) | PHP · MySQL · LiteCart · Stripe | Production e-commerce site, built at 16, still running |
+| [E-Commerce Platform](flagart.co.nz) | PHP · MySQL · LiteCart · Stripe | Production e-commerce site, built at 16, still running |
 | [Task Manager](https://github.com/karlalhw/task-manager) | C# · ASP.NET Core MVC · SQL Server | CRUD task manager with EF Core and Bootstrap |
 | [btc-wallet](https://github.com/karlalhw/btc-wallet) | Python | Non-custodial Bitcoin testnet wallet — keygen, signing, broadcast |
 | [sol-erc20](https://github.com/karlalhw/sol-erc20) | Solidity · Foundry | ERC-20 token + 26 tests incl. fuzz |
